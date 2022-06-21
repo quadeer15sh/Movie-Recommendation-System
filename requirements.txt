@@ -6,7 +6,7 @@ html5lib==1.0.1
 itsdangerous==0.24
 MarkupSafe==1.0
 matplotlib==2.2.3
-numpy==1.15.1
+numpy==1.22.0
 numpydoc==0.8.0
 packaging==17.1
 pandas==0.23.4
